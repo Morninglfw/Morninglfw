@@ -4,11 +4,6 @@
 
 <img align="right" height="400" src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952lkeyhorxyw9dm839tpt6t9sct5czc9uhevh5ndx4&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
-###
-
-![snake gif](https://github.com/Morninglfw/Morninglfw/blob/output/github-contribution-grid-snake.svg)
-
-###
 
 <div align="left">
   <a href="https://youtube.com/@morninglfw" target="_blank">
