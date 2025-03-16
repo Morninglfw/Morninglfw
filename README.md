@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Morning and I'm a  Software Engineer, Computer Science professional, Content Creator, and Gamer.</h1>
 
 ###
-
+![Snake](https://github.com/Morninglfw/Morninglfw/blob/output/github-contribution-grid-snake-dark.svg)
 <img align="right" height="400" src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952lkeyhorxyw9dm839tpt6t9sct5czc9uhevh5ndx4&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 
