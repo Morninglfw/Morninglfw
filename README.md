@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Morninglfw/Morninglfw/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
